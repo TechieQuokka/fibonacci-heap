@@ -1,0 +1,37 @@
+# Build artifacts
+*.o
+*.exe
+*.a
+*.so
+*.dll
+
+# Generated files
+gmon.out
+*.gcov
+*.gcda
+*.gcno
+
+# Coverage files
+coverage/
+
+# Documentation
+docs/html/
+docs/latex/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Distribution packages
+*.tar.gz
+*-dist/
+
+# Temporary files
+*.tmp
+*.temp
